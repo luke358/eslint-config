@@ -10,8 +10,6 @@
 
 ```bash
 pnpm add -D eslint @luke358/eslint-config
-npm i -D eslint @luke358/eslint-config
-yarn add -D eslint @luke358/eslint-config
 ```
 
 ### Config `.eslintrc`
