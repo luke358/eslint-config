@@ -1,4 +1,4 @@
-// const basic = require('@luke/eslint-config-basic')
+// const basic = require('@luke358/eslint-config-basic')
 const basic = require('@luke358/eslint-config-basic')
 
 module.exports = {

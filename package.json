@@ -2,24 +2,26 @@
   "name": "@luke358/eslint-config-monorepo",
   "version": "0.0.1",
   "description": "LukeZhu's ESLint config presets",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "author": "Luke Zhu",
+  "license": "MIT",
+  "homepage": "https://github.com/luke358/eslint-config#readme",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/luke358/eslint-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/luke358/eslint-config/issues"
   },
   "keywords": [
     "eslint",
     "eslint-config"
   ],
-  "author": "Luke Zhu",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/luke358/eslint-config/issues"
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint . --fix",
+    "prepare": "pnpm -r run stub",
+    "release": "bumpp package.json packages/*/package.json --commit --push --tag && pnpm -r publish --access public"
   },
-  "homepage": "https://github.com/luke358/eslint-config#readme",
   "devDependencies": {
     "@luke358/eslint-config": "*",
     "bumpp": "^7.1.1",

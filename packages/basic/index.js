@@ -33,7 +33,7 @@ module.exports = {
   plugins: [
     'html',
     'unicorn',
-    'luke',
+    'luke358',
   ],
   settings: {
     'import/resolver': {
@@ -329,9 +329,9 @@ module.exports = {
     'yml/quotes': ['error', { prefer: 'single', avoidEscape: false }],
     'yml/no-empty-document': 'off',
 
-    // luke
-    'luke/if-newline': 'error',
-    'luke/import-dedupe': 'error',
-    // 'luke/prefer-inline-type-import': 'error',
+    // luke358
+    'luke358/if-newline': 'error',
+    'luke358/import-dedupe': 'error',
+    // 'luke358/prefer-inline-type-import': 'error',
   },
 }
