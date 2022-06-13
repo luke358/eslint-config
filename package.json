@@ -1,6 +1,6 @@
 {
   "name": "@luke358/eslint-config-monorepo",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "LukeZhu's ESLint config presets",
   "packageManager": "pnpm@7.2.1",
   "author": "Luke Zhu",
