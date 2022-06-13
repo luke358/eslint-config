@@ -1,6 +1,6 @@
 {
   "name": "@luke358/eslint-config",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Luke's ESLint config",
   "author": "Luke Zhu <qq1494135711@gmail.com> (https://github.com/luke358/)",
   "license": "MIT",
