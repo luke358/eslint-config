@@ -1,10 +1,10 @@
 {
-  "name": "@luke/eslint-config-react",
+  "name": "@luke358/eslint-config-react",
   "version": "0.0.1",
   "description": "",
-  "author": "Luke Zhu <qq1494135711@gmail.com> (https://github.com/zxcbb/)",
+  "author": "Luke Zhu <qq1494135711@gmail.com> (https://github.com/luke358/)",
   "license": "MIT",
-  "homepage": "https://github.com/zxcbb/eslint-config",
+  "homepage": "https://github.com/luke358/eslint-config",
   "keywords": [
     "eslint-config"
   ],
@@ -19,7 +19,7 @@
     "eslint": ">=7.4.0"
   },
   "dependencies": {
-    "@luke/eslint-config-ts": "workspace:*",
+    "@luke358/eslint-config-ts": "workspace:*",
     "eslint-plugin-react": "^7.30.0"
   },
   "devDependencies": {

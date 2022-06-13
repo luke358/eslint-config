@@ -1,10 +1,10 @@
 {
-  "name": "@luke/eslint-config-basic",
+  "name": "@luke358/eslint-config-basic",
   "version": "0.0.1",
   "description": "",
-  "author": "LukeZhu <qq1494135711@gmail.com> (https://github.com/zxcbb/)",
+  "author": "LukeZhu <qq1494135711@gmail.com> (https://github.com/luke358/)",
   "license": "MIT",
-  "homepage": "https://github.com/zxcbb/eslint-config",
+  "homepage": "https://github.com/luke358/eslint-config",
   "keywords": [
     "eslint-config"
   ],

@@ -1,10 +1,10 @@
 {
-  "name": "@luke/eslint-config-ts",
+  "name": "@luke358/eslint-config-ts",
   "version": "0.0.1",
   "description": "",
-  "author": "Luke Zhu <anthonyfu117@hotmail.com> (https://github.com/zxcbb/)",
+  "author": "Luke Zhu <anthonyfu117@hotmail.com> (https://github.com/luke358/)",
   "license": "MIT",
-  "homepage": "https://github.com/zxcbb/eslint-config",
+  "homepage": "https://github.com/luke358/eslint-config",
   "keywords": [
     "eslint-config"
   ],
@@ -17,7 +17,7 @@
     "typescript": ">=3.9"
   },
   "dependencies": {
-    "@luke/eslint-config-basic": "workspace:*",
+    "@luke358/eslint-config-basic": "workspace:*",
     "@typescript-eslint/eslint-plugin": "^5.26.0",
     "@typescript-eslint/parser": "^5.26.0"
   },

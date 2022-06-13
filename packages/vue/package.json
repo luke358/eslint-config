@@ -1,8 +1,8 @@
 {
-  "name": "@luke/eslint-config-vue",
+  "name": "@luke358/eslint-config-vue",
   "version": "0.0.1",
   "description": "",
-  "author": "Luke Zhu <qq1494135711@qq.com> (https://github.com/zxcbb/)",
+  "author": "Luke Zhu <qq1494135711@qq.com> (https://github.com/luke358/)",
   "license": "MIT",
   "keywords": [
     "eslint-config"
@@ -15,7 +15,7 @@
     "eslint": ">=7.4.0"
   },
   "dependencies": {
-    "@luke/eslint-config-ts": "workspace:*",
+    "@luke358/eslint-config-ts": "workspace:*",
     "eslint-plugin-vue": "^9.0.1"
   },
   "devDependencies": {

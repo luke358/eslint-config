@@ -1,6 +1,6 @@
 {
-  "extends": "@luke",
+  "extends": "@luke358",
   "plugins": [
-    "luke"
+    "luke358"
   ]
 }
