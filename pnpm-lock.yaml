@@ -14,7 +14,7 @@ importers:
       '@luke358/eslint-config': link:packages/all
       bumpp: 7.1.1
       eslint: 8.16.0
-      eslint-plugin-luke358: link:packages/eslint-plugin-luke358zhu
+      eslint-plugin-luke358: link:packages/eslint-plugin-luke358
       lerna: 5.1.1
       typescript: 4.7.2
 
@@ -75,7 +75,7 @@ importers:
       eslint-plugin-html: 6.2.0
       eslint-plugin-import: 2.26.0_eslint@8.16.0
       eslint-plugin-jsonc: 2.2.1_eslint@8.16.0
-      eslint-plugin-luke358: link:../eslint-plugin-luke358zhu
+      eslint-plugin-luke358: link:../eslint-plugin-luke358
       eslint-plugin-markdown: 2.2.1_eslint@8.16.0
       eslint-plugin-n: 15.2.0_eslint@8.16.0
       eslint-plugin-promise: 6.0.0_eslint@8.16.0
@@ -86,7 +86,7 @@ importers:
     devDependencies:
       eslint: 8.16.0
 
-  packages/eslint-plugin-luke358zhu:
+  packages/eslint-plugin-luke358:
     specifiers:
       '@typescript-eslint/utils': ^5.26.0
       unbuild: ^0.7.4
