@@ -1,0 +1,6 @@
+{
+  "extends": "@luke",
+  "plugins": [
+    "luke"
+  ]
+}
