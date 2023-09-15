@@ -28,6 +28,7 @@
     "bumpp": "^9.2.0",
     "eslint": "^8.49.0",
     "eslint-plugin-luke358": "workspace:*",
+    "rimraf": "^5.0.1",
     "typescript": "^5.2.2"
   }
 }
